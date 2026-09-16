@@ -39,14 +39,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Mo7amed-Soliman/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amed-Soliman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <a href="https://github.com/mo7amedsoliman7/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedsoliman7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-mocha-six.vercel.app/api?username=Mo7amed-Soliman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" 
+    src="https://github-readme-stats-mocha-six.vercel.app/api?username=mo7amedsoliman7&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" 
     height="160"
   />
 </p>
