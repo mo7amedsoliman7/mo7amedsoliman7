@@ -94,15 +94,9 @@ Former Flutter Instructor at IEEE Fayoum Student Branch: 60+ hours of training, 
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/mo7amedsoliman7/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedsoliman7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedsoliman7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-mocha-six.vercel.app/api?username=mo7amedsoliman7&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
-    height="160"
-  />
+  <img height="130" src="https://github-readme-stats-mocha-six.vercel.app/api?username=mo7amedsoliman7&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&card_width=340"/>
 </p>
 
 <div align="center">
