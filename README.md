@@ -139,3 +139,15 @@ Former Flutter Instructor at IEEE Fayoum Student Branch: 60+ hours of training, 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;Feel+free+to+message+me+on+LinkedIn!;I'm+a+Lifelong+Learner">
 </h3>
+
+<p align="center">
+  💬 <b>Open to Flutter roles: remote, hybrid or Cairo-based</b>
+</p>
+
+<p align="center">
+  <i>"Ship it, monitor it, then make it faster."</i>
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:13B9FD,50:0175C2,100:025699&section=footer" width="100%" alt="footer"/>
