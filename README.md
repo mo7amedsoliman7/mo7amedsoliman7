@@ -13,12 +13,10 @@
 </div>
 
 ## 🙋‍♂️ About Me
-- 💼 **Software Engineer | Flutter Developer** at **Future of Egypt** (Nov 2025 – Present), Cairo, Egypt.
+- 💼 **Software Engineer | Flutter Developer** at **Future of Egypt** (Nov 2025 – Present), Nasr City, Cairo, Egypt.
 - 🎓 **Computer Science graduate** from Fayoum University (2025) with a grade of **Very Good with Honors**, and a graduation project graded **A+ (Excellent)**.
 - 📱 I build production-grade **mobile & web apps with Flutter** using **Clean Architecture**, **Bloc/Cubit**, and **REST APIs**.
-- 🏢 Led **External Manzoma**, an organization-wide **Flutter Web platform** used across **20 sectors**, with a **13-role RBAC system**, a reusable dynamic table engine, audit logging, analytics dashboards, and a CI/CD pipeline.
 - 👨‍🏫 Former **Flutter Instructor at IEEE Fayoum Student Branch**: 60+ hours of training, 25+ labs, and mentoring 10+ graduation projects (all graded A+).
-- 🚀 Published apps on **Google Play** and the **App Store**.
 - 🔍 Open to **collaborations** and new opportunities in **Flutter / Mobile Development**.
 
 <br>
@@ -65,6 +63,14 @@ Multi-role healthcare app for **Patients, Doctors, Pharmacists, Psychiatrists, a
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
+
+## 👨‍🏫 Teaching & Mentoring
+<p align="center"> <img src="https://github.com/user-attachments/assets/bf7e5298-7684-40ad-9b71-85ad1ded611d"
+ width="100%" alt="Flutter Instructor at IEEE Fayoum Student Branch"/> </p>
+
+Former Flutter Instructor at IEEE Fayoum Student Branch: 60+ hours of training, 25+ labs, and mentoring 10+ graduation projects (all graded A+).
+
+🏆 [View Certificate of Appreciation](https://drive.google.com/file/d/1XCXq4gUyhvIVB6toL71AZ0ZyDahPX5BQ/view?usp=sharing)
 
 ## 🚀 Languages and Tools
 <div align="center">
