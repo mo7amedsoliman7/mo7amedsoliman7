@@ -28,6 +28,14 @@
 </div>
 
 ## 📱 Featured Projects
+### 🏢 External Manzoma · Flutter Web (Private)
+Organization-wide internal platform used across **20 sectors**, digitizing manual workflows into structured, role-controlled processes. The source code is private, so here is what I led:
+ 
+- 🔐 **Access control:** 13-role RBAC with route-level and UI-level permissions and encrypted secure storage
+- 📋 **Dynamic table engine:** reusable, with per-user column visibility, filtering, sorting, and pagination
+- 🧾 **Audit logging** for activity tracking, traceability, and compliance reporting
+- 📊 **Analytics dashboards** that turn operational data into insight
+- 🚀 **CI/CD pipeline:** Staging/Production environments, Git-based versioning, FVM, and a deployment version watcher
 
 ### 🦺 Safety First App
 Production **safety incident reporting** app for a fire alarm maintenance company, with photo-based reporting and separate **Admin / Technician** access flows. Rated **4.9★** on the stores.
